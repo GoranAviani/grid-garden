@@ -188,7 +188,18 @@ grid-column: 2 / -1;
 grid-row: 1 / -1
 }
  */
+/*
+16
+#garden {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
 
+#water {
+grid-area: 1 / 2 / 4 / -1
+}
+ */
 
 
 
