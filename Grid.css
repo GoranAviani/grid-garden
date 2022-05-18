@@ -99,3 +99,16 @@ grid-column-end:4
 grid-column: 1 / -1
 }
  */
+/*
+9
+#garden {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#water {
+grid-column-start:3
+  grid-column-end: 6;
+}
+ */
