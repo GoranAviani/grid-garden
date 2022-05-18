@@ -35,3 +35,16 @@ grid-column: 5
 grid-column: 1 / span 3
 }
  */
+/*
+4
+#garden {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#water {
+  grid-column-start: 5;
+grid-column: 2 / span 3
+}
+ */
